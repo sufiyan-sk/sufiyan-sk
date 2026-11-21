@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sufiyan Shaikh
-<br><br>I'm a Software Developer at [Odoo](https://www.odoo.com/), passionate about building scalable, efficient, and business-oriented software solutions.<br><br>My primary focus is Python development and ERP customization, with experience in developing custom Odoo modules, extending business workflows, integrating third-party services, and building solutions that improve operational efficiency.<br><br>I enjoy exploring new technologies, solving complex technical challenges, and turning ideas into practical applications. Beyond ERP development, I'm interested in full-stack development, automation, embedded systems, and hardware-software integration
+<br>I'm a Software Developer at [Odoo](https://www.odoo.com/), passionate about building scalable, efficient, and business-oriented software solutions.<br><br>My primary focus is Python development and ERP customization, with experience in developing custom Odoo modules, extending business workflows, integrating third-party services, and building solutions that improve operational efficiency.<br><br>I enjoy exploring new technologies, solving complex technical challenges, and turning ideas into practical applications. Beyond ERP development, I'm interested in full-stack development, automation, embedded systems, and hardware-software integration
 
 
 ## 🌐 Socials:
